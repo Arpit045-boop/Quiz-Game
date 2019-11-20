@@ -1,0 +1,267 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<conio.h>
+int main()
+{
+	system("color 2f");
+	int choice;
+	printf("**Quiz Game** \n\n");
+	printf("Question 1 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 2 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 3 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 4 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 5 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 6 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 7 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 8 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 9 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+	getch();
+	system("cls");
+	printf("Question 10 : Who is the father of C ? \n \n");
+	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
+	printf("Answer = ");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 2:
+			{
+				printf("Correct Answer \n");
+				break;
+			}
+		case 3:{
+			printf("wrong answer\n");
+			break;
+		}
+		case 4:{
+			printf("wrong answer\n");
+			break;
+		}
+	}
+}
