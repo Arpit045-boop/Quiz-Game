@@ -5,7 +5,7 @@ int main()
 {
 	system("color 2f");
 	int choice;
-	printf("**Quiz Game** \n\n");
+	printf("**Quiz Game** \n\n"); //forked by alakshya
 	printf("Question 1 : Who is the father of C ? \n \n");
 	printf("(1)  \n(2) Dennis Rechi \n(3) MNB \n(4) POI \n\n");
 	printf("Answer = ");
